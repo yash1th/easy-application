@@ -9,39 +9,39 @@ Please note that it is not encouraged to blindly apply to every company on this 
 <!-- BEGIN DATA -->
 | Company Name | Location |
 | --- | --- |
-| [21](https://jobs.lever.co/21) | San Francisco, CA |
-| [23andMe](https://www.23andme.com/careers/) | Mountain View, CA |
-| [6sense](https://6sense.com/about-us/careers-and-culture/) | San Francisco, CA |
-| [A9](https://www.a9.com/careers/) | Palo Alto, CA |
-| [Academia](https://www.academia.edu/hiring) | San Francisco, CA |
-| [Achievers](http://www.achievers.com/careers/jobs) | San Francisco, CA  |
-| [Acorns](https://www.acorns.com/careers) | Irvine, CA |
-| [Acquia](https://www.acquia.com/careers/open-positions) | Boston, MA; New Delhi, India; Portland, OR; Remote; Toronto, Canada |
-| [Addepar](https://www.addepar.com/careers/) | Mountain View, CA |
-| [AeroFS](https://www.aerofs.com/company/careers/) | San Francisco, CA |
-| [Affirm](https://www.affirm.com/careers/) | San Francisco, CA |
-| [Airbnb](https://www.airbnb.com/careers) | San Francisco, CA |
-| [Airtable](https://airtable.com/jobs) | San Francisco, CA |
-| [Algebraix](http://www.algebraixdata.com/section/careers/) | San Diego, CA |
-| [Algolia](https://www.algolia.com/careers) | Paris, France; San Francisco, CA |
-| [AltSchool](https://www.altschool.com/jobs) | San Francisco, CA |
-| [Amino](https://amino.com/careers/) | San Francisco, CA |
-| [Amobee](http://amobee.com/careers/) | Foster City, CA |
-| [Ancestry](http://www.ancestry.com/corporate/careers/) | Lehi, UT; San Francisco, CA |
-| [ANDigital](https://andigital.com/join-us/) | London, WC2N 4JF, UK |
-| [Angellist](https://angel.co/angellist/jobs) | San Francisco, CA; New York City, NY |
-| [AppFolio](http://www.appfolioinc.com/jobs) | San Diego, CA; Santa Barbara, CA |
-| [AppNexus](http://www.appnexus.com/en/company/careers) | New York, NY |
-| [Apptio](http://www.apptio.com/about/careers) | Bellevue, WA |
-| [Aptible](https://www.aptible.com/company/) | Denver, CO |
-| [Asana](https://asana.com/jobs) | San Francisco, CA |
-| [Aspiration Software](http://aspirationsoftware.com/careers/) | Middleburg, VA |
-| [Atomic](https://atomic.vc/careers/) | San Francisco, CA; Waterloo, Canada |
-| [Audience](http://www.audience.com/eng/Our-company/Careers) | Mountain View, CA |
-| [August](http://august.com/jobs/#.Vo1p-JMrKHo) | San Francisco, CA |
-| [AutomatedInsights](https://automatedinsights.com/company) | Durham, NC |
-| [Automattic](https://automattic.com/work-with-us/) | San Francisco, CA |
-| [Axxess](http://www.axxess.com/careers) | Dallas, TX |
+| [21](https://jobs.lever.co/21) | San Francisco, CA | - No Positions available - 4/19
+| [23andMe](https://www.23andme.com/careers/) | Mountain View, CA | - Done - 4/19
+| [6sense](https://6sense.com/about-us/careers-and-culture/) | San Francisco, CA | - Done - 4/19
+| [A9](https://www.a9.com/careers/) | Palo Alto, CA | - Done - 4/19
+| [Academia](https://www.academia.edu/hiring) | San Francisco, CA | - No positions available - 4/19
+| [Achievers](http://www.achievers.com/careers/jobs) | San Francisco, CA  | - No positions available - 4/19
+| [Acorns](https://www.acorns.com/careers) | Irvine, CA | - Done - 4/19
+| [Acquia](https://www.acquia.com/careers/open-positions) | Boston, MA; New Delhi, India; Portland, OR; Remote; Toronto, Canada | - Done - 4/19
+| [Addepar](https://www.addepar.com/careers/) | Mountain View, CA | - Done - 4/19
+| [AeroFS](https://www.aerofs.com/company/careers/) | San Francisco, CA | - Email - 4/19
+| [Affirm](https://www.affirm.com/careers/) | San Francisco, CA | - Done - 4/19
+| [Airbnb](https://www.airbnb.com/careers) | San Francisco, CA | - Done - 4/19
+| [Airtable](https://airtable.com/jobs) | San Francisco, CA | - Done - 4/19
+| [Algebraix](http://www.algebraixdata.com/section/careers/) | San Diego, CA | - Email - 4/19
+| [Algolia](https://www.algolia.com/careers) | Paris, France; San Francisco, CA | - Email - 4/19
+| [AltSchool](https://www.altschool.com/jobs) | San Francisco, CA | - No positions available - 4/19
+| [Amino](https://amino.com/careers/) | San Francisco, CA | - No positions available - 4/19
+| [Amobee](http://amobee.com/careers/) | Foster City, CA | - No positions available - 4/19
+| [Ancestry](http://www.ancestry.com/corporate/careers/) | Lehi, UT; San Francisco, CA | - Done - 4/19
+| [ANDigital](https://andigital.com/join-us/) | London, WC2N 4JF, UK | - Done - 4/19
+| [Angellist](https://angel.co/angellist/jobs) | San Francisco, CA; New York City, NY | - Done - 4/19
+| [AppFolio](http://www.appfolioinc.com/jobs) | San Diego, CA; Santa Barbara, CA | - Done - 4/19
+| [AppNexus](http://www.appnexus.com/en/company/careers) | New York, NY | - Done - 4/19
+| [Apptio](http://www.apptio.com/about/careers) | Bellevue, WA | - Done - 4/19
+| [Aptible](https://www.aptible.com/company/) | Denver, CO | - Done - 4/19
+| [Asana](https://asana.com/jobs) | San Francisco, CA | - Done - 4/19
+| [Aspiration Software](http://aspirationsoftware.com/careers/) | Middleburg, VA | - Clearance required - All positions
+| [Atomic](https://atomic.vc/careers/) | San Francisco, CA; Waterloo, Canada | - No positions available - 4/19
+| [Audience](http://www.audience.com/eng/Our-company/Careers) | Mountain View, CA | - No positions available - 4/19
+| [August](http://august.com/jobs/#.Vo1p-JMrKHo) | San Francisco, CA | - No positions available - 4/19
+| [AutomatedInsights](https://automatedinsights.com/company) | Durham, NC | - No positions available - 4/19
+| [Automattic](https://automattic.com/work-with-us/) | San Francisco, CA | - No positions available - 4/19
+| [Axxess](http://www.axxess.com/careers) | Dallas, TX | - 
 | [BambooHR](http://www.bamboohr.com/about/careers.php) | Lindon, UT |
 | [Beepi](https://www.beepi.com/careers/teams) | Los Altos, CA |
 | [Benchling](https://benchling.com/careers) | San Francisco, CA |
