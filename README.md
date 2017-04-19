@@ -9,7 +9,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 <!-- BEGIN DATA -->
 | Company Name | Location |
 | --- | --- |
-| [21](https://jobs.lever.co/21) | San Francisco, CA | - No Positions available - 4/19
+| [21](https://jobs.lever.co/21) | San Francisco, CA | - No Positions available - 4/19 |
 | [23andMe](https://www.23andme.com/careers/) | Mountain View, CA | - Done - 4/19
 | [6sense](https://6sense.com/about-us/careers-and-culture/) | San Francisco, CA | - Done - 4/19
 | [A9](https://www.a9.com/careers/) | Palo Alto, CA | - Done - 4/19
@@ -29,7 +29,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Amobee](http://amobee.com/careers/) | Foster City, CA | - No positions available - 4/19
 | [Ancestry](http://www.ancestry.com/corporate/careers/) | Lehi, UT; San Francisco, CA | - Done - 4/19
 | [ANDigital](https://andigital.com/join-us/) | London, WC2N 4JF, UK | - Done - 4/19
-| [Angellist](https://angel.co/angellist/jobs) | San Francisco, CA; New York City, NY | - Done - 4/19
+| [Angellist](https://angel.co/angellist/jobs) | San Francisco, CA; New York City, NY | - Done - 4/19 |
 | [AppFolio](http://www.appfolioinc.com/jobs) | San Diego, CA; Santa Barbara, CA | - Done - 4/19
 | [AppNexus](http://www.appnexus.com/en/company/careers) | New York, NY | - Done - 4/19
 | [Apptio](http://www.apptio.com/about/careers) | Bellevue, WA | - Done - 4/19
@@ -41,7 +41,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [August](http://august.com/jobs/#.Vo1p-JMrKHo) | San Francisco, CA | - No positions available - 4/19
 | [AutomatedInsights](https://automatedinsights.com/company) | Durham, NC | - No positions available - 4/19
 | [Automattic](https://automattic.com/work-with-us/) | San Francisco, CA | - No positions available - 4/19
-| [Axxess](http://www.axxess.com/careers) | Dallas, TX | - 
+| [Axxess](http://www.axxess.com/careers) | Dallas, TX | -
 | [BambooHR](http://www.bamboohr.com/about/careers.php) | Lindon, UT |
 | [Beepi](https://www.beepi.com/careers/teams) | Los Altos, CA |
 | [Benchling](https://benchling.com/careers) | San Francisco, CA |
