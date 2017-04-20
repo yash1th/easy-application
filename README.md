@@ -41,70 +41,70 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [August](http://august.com/jobs/#.Vo1p-JMrKHo) | San Francisco, CA | - No positions available - 4/19
 | [AutomatedInsights](https://automatedinsights.com/company) | Durham, NC | - No positions available - 4/19
 | [Automattic](https://automattic.com/work-with-us/) | San Francisco, CA | - No positions available - 4/19
-| [Axxess](http://www.axxess.com/careers) | Dallas, TX | -
-| [BambooHR](http://www.bamboohr.com/about/careers.php) | Lindon, UT |
-| [Beepi](https://www.beepi.com/careers/teams) | Los Altos, CA |
-| [Benchling](https://benchling.com/careers) | San Francisco, CA |
-| [Bending Spoons](http://bendingspoons.com/careers.html) | Milan, Italy; Remote |
-| [Betterment](https://www.betterment.com/careers/) | New York, NY |
-| [Bill.com](https://www.bill.com/about-us/careers/jobs/) | Palo Alto, CA |
-| [Bitly](https://bitly.com/pages/careers) | Denver, CO; San Francisco, CA; New York, NY  |
-| [Bitnami](https://bitnami.com/careers) | San Francisco, CA  |
-| [BitTorrent](http://www.bittorrent.com/company/about/jobs) | San Francisco, CA  |
-| [Blend Labs](https://blendlabs.com/company/jobs/) | San Francisco, CA |
-| [Bloomz](https://www.bloomz.net/jobs/) | Redmond, WA |
-| [Blue Origin](https://www.blueorigin.com/careers) | Kent, WA |
-| [Bonuz](http://bonuz.sumone.com.br/contato.html#talent) | Florianópolis, SC, Brazil |
-| [Booking.com](https://workingatbooking.com/) | Amsterdam, Netherlands |
-| [Box](https://www.box.com/careers/) | London, UK; New York, NY; Redwood City, CA; San Fransisco, CA |
-| [Brigade](https://jobs.lever.co/brigade) | San Francisco, CA |
-| [BuildASign](https://www.buildasign.com/careers) | Austin, TX  |
-| [BuildZoom](https://www.buildzoom.com/careers) | San Francisco, CA; Norman, OK  |
-| [Bungie](https://www.bungie.net/en/AboutUs/index#!page=careers) | Bellevue, WA |
-| [Busbud](https://www.busbud.com/en/careers) | Montreal, Quebec |
-| [BuzzFeed](http://www.buzzfeed.com/about/jobs) | Los Angeles, CA; New York, NY |
-| [Canary](https://canary.is/careers/) | New York, NY |
-| [Capsule](https://www.capsulecares.com/about/) | New York, NY |
-| [Captain401](https://captain401.com/careers) | San Francisco, CA |
-| [Carbon](https://jobs.lever.co/carbon/) | Redwood City, CA |
-| [Casetext](https://casetext.com/jobs) | San Francisco, CA |
-| [Casper](https://boards.greenhouse.io/casper) | New York, NY |
-| [Catchpoint](http://www.catchpoint.com/about/careers/) | New York, NY |
-| [Centro](http://www.centro.net/careers) | Chicago, IL |
-| [change.org](https://www.change.org/careers) | San Francisco, CA |
-| [Chaordic](https://www.chaordic.com.br/vagas/) | Florianópolis, SC, Brazil |
-| [Checkr](https://checkr.com/careers/) | San Francisco, CA |
-| [Cheesecake Labs](https://www.ckl.io/careers/#) | Florianópolis, SC, Brazil; San Francisco, CA |
-| [Chewy](http://www.chewy.com/jobs) | Dania Beach, FL |
-| [Chexology](https://jobs.lever.co/chexology) | New York, NY |
-| [CircleUp](https://circleup.com/jobs/) | San Francisco, CA ||  |
-| [Citrix](https://jobs.citrix.com/) |  Fort Lauderdale, FL; Santa Clara, CA; Remote |
-| [Classy](https://www.classy.org/careers) | San Diego, CA |
-| [ClearSlide](https://www.clearslide.com/careers) | San Francisco, CA |
-| [Clever](https://clever.com/about/jobs) | San Francisco, CA |
-| [Cloudera](http://www.cloudera.com/about-cloudera/careers.html) | Palo Alto, CA; San Francisco, CA |
-| [Clue](https://www.helloclue.com/jobs.html) | Berlin, Germany |
-| [Clustrix](http://www.clustrix.com/company/careers/) | San Francisco, CA; San Jose, CA; Seattle, WA |
-| [Codecademy](https://www.codecademy.com/about/jobs) | New York, NY |
-| [Codefights](https://jobs.lever.co/codefights) | San Francisco, CA |
-| [Codeship](https://codeship.com/jobs) | Boston, MA; Remote |
-| [Coinbase](https://www.coinbase.com/careers) | San Francisco, CA |
-| [Collective Health](https://collectivehealth.com/jobs/) | San Francisco, CA |
-| [Color](https://getcolor.com/careers) | Burlingame, CA |
-| [Compass](https://www.compass.com/careers/) | New York, NY |
-| [CoreOS](https://coreos.com/careers/) | Berlin, DE; New York, NY; San Francisco, CA; |
-| [CornerStone OnDemand](https://www.cornerstoneondemand.com/careers) | Santa Monica, CA |
-| [Couchbase](http://www.couchbase.com/careers) | Mountain View, CA |
-| [Couchsurfing](http://www.couchsurfing.com/about/jobs/) | San Francisco, CA |
-| [Counsyl](https://www.counsyl.com/careers/) | San Francisco, CA |
-| [Coursera](https://www.coursera.org/about/careers) | Mountain View, CA |
-| [CreditKarma](https://www.creditkarma.com/careers) | San Francisco, CA |
-| [CrowdRise](https://www.crowdrise.com/about/jobs) | Los Angeles, CA |
-| [CrowdStar](http://www.crowdstar.com/jobs/) | Burlingame, CA |
-| [Cruise](https://jobs.lever.co/cruise) | San Francisco, CA |
-| [CrunchBase](https://info.crunchbase.com/careers/) | San Francisco, CA |
-| [Cumulus Networks](https://cumulusnetworks.com/careers/) | Mountain View, CA |
-| [Curse](https://www.curseinc.com/careers) | Astoria, NY; Berlin, Germany; El Segundo, CA; Huntsville, AL; Irvine, CA; London; Paris, France; Sydney, Australia |
+| [Axxess](http://www.axxess.com/careers) | Dallas, TX | - Done - 4/19
+| [BambooHR](http://www.bamboohr.com/about/careers.php) | Lindon, UT | - Done - 4/19
+| [Beepi](https://www.beepi.com/careers/teams) | Los Altos, CA | - Email - 4/19
+| [Benchling](https://benchling.com/careers) | San Francisco, CA | - Done - 4/19
+| [Bending Spoons](http://bendingspoons.com/careers.html) | Milan, Italy; Remote | - Done - 4/19
+| [Betterment](https://www.betterment.com/careers/) | New York, NY | - Done - 4/19
+| [Bill.com](https://www.bill.com/about-us/careers/jobs/) | Palo Alto, CA | - Already applied - 3/15 - check status back
+| [Bitly](https://bitly.com/pages/careers) | Denver, CO; San Francisco, CA; New York, NY  | - Done - 4/19
+| [Bitnami](https://bitnami.com/careers) | San Francisco, CA  | - Done - 4/19
+| [BitTorrent](http://www.bittorrent.com/company/about/jobs) | San Francisco, CA  | - No positions available - 4/19
+| [Blend Labs](https://blendlabs.com/company/jobs/) | San Francisco, CA | - Done - 4/19
+| [Bloomz](https://www.bloomz.net/jobs/) | Redmond, WA | - Email - 4/19
+| [Blue Origin](https://www.blueorigin.com/careers) | Kent, WA | - Must be citizen - 4/19
+| [Bonuz](http://bonuz.sumone.com.br/contato.html#talent) | Florianópolis, SC, Brazil | - Brazil - 4/19
+| [Booking.com](https://workingatbooking.com/) | Amsterdam, Netherlands | - No positions available - 4/19
+| [Box](https://www.box.com/careers/) | London, UK; New York, NY; Redwood City, CA; San Fransisco, CA | - Done - 4/19
+| [Brigade](https://jobs.lever.co/brigade) | San Francisco, CA | - Done - 4/19
+| [BuildASign](https://www.buildasign.com/careers) | Austin, TX  | - Done - 4/19
+| [BuildZoom](https://www.buildzoom.com/careers) | San Francisco, CA; Norman, OK  | - Done - 4/19
+| [Bungie](https://www.bungie.net/en/AboutUs/index#!page=careers) | Bellevue, WA | - Email - 4/19
+| [Busbud](https://www.busbud.com/en/careers) | Montreal, Quebec | - Not USA - 4/19
+| [BuzzFeed](http://www.buzzfeed.com/about/jobs) | Los Angeles, CA; New York, NY | - Done - 4/19
+| [Canary](https://canary.is/careers/) | New York, NY | - No positions available - 4/19
+| [Capsule](https://www.capsulecares.com/about/) | New York, NY | - Done - 4/19
+| [Captain401](https://captain401.com/careers) | San Francisco, CA | - Email - 4/19
+| [Carbon](https://jobs.lever.co/carbon/) | Redwood City, CA | - Done - 4/19
+| [Casetext](https://casetext.com/jobs) | San Francisco, CA | - Done - 4/19
+| [Casper](https://boards.greenhouse.io/casper) | New York, NY | - Done - 4/19
+| [Catchpoint](http://www.catchpoint.com/about/careers/) | New York, NY | - Done - 4/19
+| [Centro](http://www.centro.net/careers) | Chicago, IL | - Done - 4/19
+| [change.org](https://www.change.org/careers) | San Francisco, CA | - No positions available - 4/19
+| [Chaordic](https://www.chaordic.com.br/vagas/) | Florianópolis, SC, Brazil | - Not USA - 4/19
+| [Checkr](https://checkr.com/careers/) | San Francisco, CA | - Done - 4/19
+| [Cheesecake Labs](https://www.ckl.io/careers/#) | Florianópolis, SC, Brazil; San Francisco, CA | - Done - 4/19
+| [Chewy](http://www.chewy.com/jobs) | Dania Beach, FL | - Done - 4/19
+| [Chexology](https://jobs.lever.co/chexology) | New York, NY | - Done - 4/19
+| [CircleUp](https://circleup.com/jobs/) | San Francisco, CA || - Done - 4/19
+| [Citrix](https://jobs.citrix.com/) |  Fort Lauderdale, FL; Santa Clara, CA; Remote | - Apply later - 4/19
+| [Classy](https://www.classy.org/careers) | San Diego, CA | - Done - 4/19
+| [ClearSlide](https://www.clearslide.com/careers) | San Francisco, CA | - Done - 4/19
+| [Clever](https://clever.com/about/jobs) | San Francisco, CA | - Done - 4/19
+| [Cloudera](http://www.cloudera.com/about-cloudera/careers.html) | Palo Alto, CA; San Francisco, CA | - Done - 4/19
+| [Clue](https://www.helloclue.com/jobs.html) | Berlin, Germany | - Not USA - 4/19
+| [Clustrix](http://www.clustrix.com/company/careers/) | San Francisco, CA; San Jose, CA; Seattle, WA | - Done - 4/19
+| [Codecademy](https://www.codecademy.com/about/jobs) | New York, NY | - No positions available - 4/19
+| [Codefights](https://jobs.lever.co/codefights) | San Francisco, CA | - Done - 4/19
+| [Codeship](https://codeship.com/jobs) | Boston, MA; Remote | - No positions available - 4/19
+| [Coinbase](https://www.coinbase.com/careers) | San Francisco, CA | - Done - 4/19
+| [Collective Health](https://collectivehealth.com/jobs/) | San Francisco, CA | - Done - 4/19
+| [Color](https://getcolor.com/careers) | Burlingame, CA | - Done - 4/19
+| [Compass](https://www.compass.com/careers/) | New York, NY | - Done - 4/19
+| [CoreOS](https://coreos.com/careers/) | Berlin, DE; New York, NY; San Francisco, CA; | - Done - 4/19
+| [CornerStone OnDemand](https://www.cornerstoneondemand.com/careers) | Santa Monica, CA | - Done - 4/19
+| [Couchbase](http://www.couchbase.com/careers) | Mountain View, CA | - Done - 4/19
+| [Couchsurfing](http://www.couchsurfing.com/about/jobs/) | San Francisco, CA | - Done - 4/19
+| [Counsyl](https://www.counsyl.com/careers/) | San Francisco, CA | - Done - 4/19
+| [Coursera](https://www.coursera.org/about/careers) | Mountain View, CA | - Done - 4/19
+| [CreditKarma](https://www.creditkarma.com/careers) | San Francisco, CA | - Done - 4/19
+| [CrowdRise](https://www.crowdrise.com/about/jobs) | Los Angeles, CA | - Email - 4/19
+| [CrowdStar](http://www.crowdstar.com/jobs/) | Burlingame, CA | - Done - 4/19
+| [Cruise](https://jobs.lever.co/cruise) | San Francisco, CA | - Done - 4/19
+| [CrunchBase](https://info.crunchbase.com/careers/) | San Francisco, CA | - Done - 4/19
+| [Cumulus Networks](https://cumulusnetworks.com/careers/) | Mountain View, CA | - Done - 4/19
+| [Curse](https://www.curseinc.com/careers) | Astoria, NY; Berlin, Germany; El Segundo, CA; Huntsville, AL; Irvine, CA; London; Paris, France; Sydney, Australia | - Done - 4/19
 | [Curalate](https://www.themuse.com/companies/curalate) | London, UK; New York, NY; Philadelphia, PA; Seattle, WA |
 | [Datadog](https://www.datadoghq.com/careers/) | Boston, MA; New York, NY; Paris, FR |
 | [DigitalOcean](https://www.digitalocean.com/company/careers/) | New York, NY; Remote |
