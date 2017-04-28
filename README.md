@@ -220,50 +220,50 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Machine Zone](https://www.mz.com/careers.html) | Palo Alto, CA | - Done - 4/26
 | [Magic](https://getmagicnow.com/jobs) | San Francisco, CA | - Email - 4/26
 | [MailChimp](http://mailchimp.com/about/jobs/) | Atlanta, GA | - Done - 4/26
-| [Marketo](http://marketo.jobs/careers/) | San Mateo, CA | - 
-| [Mark 43](https://www.mark43.com/jobs/) | New York, NY; Toronto; Washington, DC |
-| [Mattermark](https://mattermark.com/jobs/) | San Francisco, CA |
-| [Matterport](http://matterport.com/positions/) | Mountain View, CA |
-| [Medallia](http://www.medallia.com/open-positions/) | Buenos Aires, Argentina; Palo Alto, CA |
-| [Medium](https://jobs.medium.com/) | San Francisco, CA |
-| [Meetup](http://www.meetup.com/jobs/) | New York, NY |
-| [Mesosphere](https://mesosphere.com/careers/) | Hamburg, Germany; San Francisco, CA |
-| [Meteor](https://www.meteor.com/careers) | San Francisco, CA |
-| [Metromile](https://boards.greenhouse.io/metromile#.Vo7qppMrIo8) | Boston, MA; San Francisco, CA |
-| [Mind Candy](http://mindcandy.com/careers) | London, UK |
-| [MindTouch](https://www.mindtouch.com/about/careers) | San Diego, CA |
-| [MixBit](https://mixbit.com/jobs) | San Mateo, CA |
-| [Mixpanel](https://mixpanel.com/jobs/) | San Francisco, CA |
-| [MLab](https://mlab.com/company/) | San Francisco, CA |
-| [MongoDB](https://www.mongodb.com/careers) | New York, NY; Palo Alto, CA |
-| [Moz](https://moz.com/about/jobs) | Seattle, WA |
-| [Mozilla](https://careers.mozilla.org/) | Boston, MA; Remote; San Francisco, CA |
-| [MuleSoft](https://www.mulesoft.com/careers) | San Francisco, CA |
-| [Munchery](https://munchery.com/jobs/) | San Francisco, CA |
-| [Narrative Science](https://www.narrativescience.com/careers) | Chicago, IL |
-| [Nervana Systems](http://www.nervanasys.com/careers/) | San Diego, CA |
-| [Nest](https://nest.com/careers/) | Kirkland, WA; Palo Alto, CA|
-| [New Relic](http://newrelic.com/about/careers) | San Francisco, CA |
-| [Nexmo](https://www.nexmo.com/careers/) | San Francisco, CA |
-| [Nextdoor](https://nextdoor.com/jobs/) | San Francisco, CA |
-| [Niantic](https://www.nianticlabs.com/jobs/) | Los Angeles, CA; San Francisco, CA; Seattle, WA; Sunnyvale, CA |
-| [Nulogy](https://nulogy.com/who-we-are/careers/) | Toronto, ON, Canada |
-| [Oblong](http://www.oblong.com/company/careers/) | Los Angeles, CA |
-| [Okta](https://www.okta.com/company/careers/) | San Francisco, CA; Seattle, WA |
-| [Onefootball](https://www.onefootball.com/company/careers.html) | Berlin, Germany |
-| [OneLogin](https://www.onelogin.com/jobs) | San Francisco, CA |
-| [Open Whisper Systems](https://whispersystems.org/workworkwork/) | San Francisco, CA |
-| [Opendoor](https://www.opendoor.com/jobs) | San Francisco, CA |
-| [OpenTable](http://www.opentable.com/careers/) | San Francisco, CA |
-| [OpenX](http://openx.com/open-positions/) | Menlo Park, CA |
-| [Operator](https://operator.com/jobs) | San Francisco, CA |
-| [Opower](https://opower.com/careers/) | Arlington, VA; San Francisco, CA |
-| [Optimizely](https://www.optimizely.com/careers/) | San Francisco, CA |
-| [Oscar Health](https://www.hioscar.com/careers/) | New York, NY |
-| [Palantir](https://www.palantir.com/careers/) | New York, NY; Palo Alto, CA |
-| [Palo Alto Networks](https://www.paloaltonetworks.com/company/careers.html) | Santa Clara, CA |
-| [Pandora](http://www.pandora.com/careers/all) | Oakland, CA |
-| [Paypal](https://www.paypal.com/webapps/mpp/jobs) | San Jose, CA |
+| [Marketo](http://marketo.jobs/careers/) | San Mateo, CA | - Done - 4/28
+| [Mark 43](https://www.mark43.com/jobs/) | New York, NY; Toronto; Washington, DC | - 4/28
+| [Mattermark](https://mattermark.com/jobs/) | San Francisco, CA | - Done - 4/28
+| [Matterport](http://matterport.com/positions/) | Mountain View, CA | - No positions available - 4/28
+| [Medallia](http://www.medallia.com/open-positions/) | Buenos Aires, Argentina; Palo Alto, CA | - Done - 4/28
+| [Medium](https://jobs.medium.com/) | San Francisco, CA | - No positions available - 4/28
+| [Meetup](http://www.meetup.com/jobs/) | New York, NY | - No positions available - 4/28
+| [Mesosphere](https://mesosphere.com/careers/) | Hamburg, Germany; San Francisco, CA | - No positions available - 4/28
+| [Meteor](https://www.meteor.com/careers) | San Francisco, CA | - No positions available - 4/28
+| [Metromile](https://boards.greenhouse.io/metromile#.Vo7qppMrIo8) | Boston, MA; San Francisco, CA | - Done - 4/28
+| [Mind Candy](http://mindcandy.com/careers) | London, UK | - No positions available - 4/28
+| [MindTouch](https://www.mindtouch.com/about/careers) | San Diego, CA | - No positions available - 4/28
+| [MixBit](https://mixbit.com/jobs) | San Mateo, CA | - Email - 4/28
+| [Mixpanel](https://mixpanel.com/jobs/) | San Francisco, CA | - Done - 4/28
+| [MLab](https://mlab.com/company/) | San Francisco, CA | - Email - 4/28 (Developer advocate)
+| [MongoDB](https://www.mongodb.com/careers) | New York, NY; Palo Alto, CA | - Done - 5/28
+| [Moz](https://moz.com/about/jobs) | Seattle, WA | - Done - 5/28
+| [Mozilla](https://careers.mozilla.org/) | Boston, MA; Remote; San Francisco, CA | - Done - 4/28
+| [MuleSoft](https://www.mulesoft.com/careers) | San Francisco, CA | - Done - 4/28
+| [Munchery](https://munchery.com/jobs/) | San Francisco, CA | - No positions available - 4/28
+| [Narrative Science](https://www.narrativescience.com/careers) | Chicago, IL | - Done - 4/28
+| [Nervana Systems](http://www.nervanasys.com/careers/) | San Diego, CA | - No positions available - 4/28
+| [Nest](https://nest.com/careers/) | Kirkland, WA; Palo Alto, CA| - Done - 4/28
+| [New Relic](http://newrelic.com/about/careers) | San Francisco, CA | - Done - 4/28
+| [Nexmo](https://www.nexmo.com/careers/) | San Francisco, CA | - No positions available - 4/28
+| [Nextdoor](https://nextdoor.com/jobs/) | San Francisco, CA | - Done - 4/28
+| [Niantic](https://www.nianticlabs.com/jobs/) | Los Angeles, CA; San Francisco, CA; Seattle, WA; Sunnyvale, CA | - Done - 4/28
+| [Nulogy](https://nulogy.com/who-we-are/careers/) | Toronto, ON, Canada | - Not USA - 4/28
+| [Oblong](http://www.oblong.com/company/careers/) | Los Angeles, CA | - Done - 4/28
+| [Okta](https://www.okta.com/company/careers/) | San Francisco, CA; Seattle, WA | - No positions available - 4/28
+| [Onefootball](https://www.onefootball.com/company/careers.html) | Berlin, Germany | - Not USA - 4/28
+| [OneLogin](https://www.onelogin.com/jobs) | San Francisco, CA | - No positions available - 4/28
+| [Open Whisper Systems](https://whispersystems.org/workworkwork/) | San Francisco, CA | - No positions available - 4/28
+| [Opendoor](https://www.opendoor.com/jobs) | San Francisco, CA | - Done - 4/28
+| [OpenTable](http://www.opentable.com/careers/) | San Francisco, CA | - No positions available - 4/28
+| [OpenX](http://openx.com/open-positions/) | Menlo Park, CA | - No positions available - 4/28
+| [Operator](https://operator.com/jobs) | San Francisco, CA | - No positions available - 4/28
+| [Opower](https://opower.com/careers/) | Arlington, VA; San Francisco, CA | - merged to oracle - 4/28
+| [Optimizely](https://www.optimizely.com/careers/) | San Francisco, CA | - Done - 4/28
+| [Oscar Health](https://www.hioscar.com/careers/) | New York, NY | - Done - 4/28
+| [Palantir](https://www.palantir.com/careers/) | New York, NY; Palo Alto, CA | - Out of my reach - 4/28
+| [Palo Alto Networks](https://www.paloaltonetworks.com/company/careers.html) | Santa Clara, CA | - Done - 4/28
+| [Pandora](http://www.pandora.com/careers/all) | Oakland, CA | - No positions available - 4/28
+| [Paypal](https://www.paypal.com/webapps/mpp/jobs) | San Jose, CA | - No positions available - 4/28
 | [Pinterest](https://careers.pinterest.com/) | San Francisco, CA |
 | [Pivotal](http://pivotal.io/careers) | Atlanta, GA; Los Angeles, CA; New York, NY; San Francisco, CA |
 | [PlushCare](https://www.plushcare.com/careers/) | San Francisco, CA |
