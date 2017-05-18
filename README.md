@@ -264,48 +264,48 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Palo Alto Networks](https://www.paloaltonetworks.com/company/careers.html) | Santa Clara, CA | - Done - 4/28
 | [Pandora](http://www.pandora.com/careers/all) | Oakland, CA | - No positions available - 4/28
 | [Paypal](https://www.paypal.com/webapps/mpp/jobs) | San Jose, CA | - No positions available - 4/28
-| [Pinterest](https://careers.pinterest.com/) | San Francisco, CA |
-| [Pivotal](http://pivotal.io/careers) | Atlanta, GA; Los Angeles, CA; New York, NY; San Francisco, CA |
-| [PlushCare](https://www.plushcare.com/careers/) | San Francisco, CA |
-| [Postmates](https://postmates.com/jobs) | San Francisco, CA |
-| [Prezi](http://prezi.com/jobs/) | Budapest, Hungary; San Francisco, CA  |
-| [Priceline](http://careers.priceline.com/) | Norwalk, CT |
-| [Prism](https://prism.com/careers/) | San Francisco, CA |
-| [Pristine](https://pristine.io/careers/) | Austin, TX |
-| [Procore Technologies](https://www.procore.com/jobs/) | Santa Barbara, CA |
-| [Prominic](https://prominic.net/about-us/careers/) | Champaign, IL; Rantoul, IL |
-| [Pure Storage](https://www.purestorage.com/company/careers.html) | Bellevue, WA; Mountain View, CA |
-| [Qlik](http://www.qlik.com/company/careers) | San Francisco, CA |
-| [Qualtrics](https://www.qualtrics.com/careers/) | Provo, UT; Seattle, WA |
-| [Quantcast](https://www.quantcast.com/about-us/careers/) | San Francisco, CA |
-| [Qubole](https://www.qubole.com/career) | Bangalore, India; Mountain View, CA |
-| [Quip](https://quip.com/about/jobs) | San Francisco, CA |
-| [Quizlet](https://quizlet.com/jobs) | San Francisco, CA |
-| [Quora](https://www.quora.com/careers) | Mountain View, CA |
-| [Rackspace](https://www.rackspace.com/talent/) | Austin, TX; San Antonio, TX |
-| [Radius](https://radius.com/jobs/) | San Francisco, CA |
-| [ReadMe](https://readme.io/careers/) | San Francisco, CA |
-| [Redbull](http://jobs.redbull.com/us/en-US) | Santa Monica, CA |
-| [Reddit](https://about.reddit.com/careers/) | San Francisco, CA |
-| [Redfin](http://www.redfin.com/about/jobs) | San Francisco, CA; Seattle, WA |
-| [Redis-Labs](https://redislabs.com/company/redis-labs-careers) | Tel Aviv, Israel |
-| [Remitly](https://www.remitly.com/us/en/home/careers) | Seattle, WA |
-| [ResearchGate](https://www.researchgate.net/careers#positions) | Berlin, Germany |
-| [Resultados Digitais](http://resultadosdigitais.com.br/trabalhe-conosco/) | Florianópolis, SC, Brazil |
-| [RetailNext](http://retailnext.net/about-us/career-openings/) | Chicago, IL; San Francisco, CA; San Jose, CA |
-| [Riot Games](http://www.riotgames.com/careers) | Los Angeles, CA |
-| [RiskIQ](https://www.riskiq.com/careers) | San Francisco, CA |
-| [Roadtrippers](https://roadtrippers.com/jobs) | Cincinnati, OH; Remote |
-| [Robinhood](https://robinhood.com/jobs) | Palo Alto, CA |
-| [ROBLOX](http://corp.roblox.com/careers) | San Mateo, CA |
-| [Roku](https://www.roku.com/about/jobs) | Austin, TX; Los Gatos, CA |
-| [Rover.com](http://jobs.rover.com/) | Seattle, WA |
-| [rubrik](https://www.rubrik.com/company/careers/) | Palo Alto, CA |
-| [SADA Systems](https://sadasystems.com/careers) | Los Angeles, CA |
-| [ScoreBig](http://scorebig.applytojob.com/apply) | Los Angeles, CA |
-| [Scribd](https://www.scribd.com/about/jobs) | San Francisco, CA |
-| [Seamless](https://www.seamless.com/about/careers) | Chicago, IL; New York, NY |
-| [SeatGeek](https://seatgeek.com/jobs) | New York, NY |
+| [Pinterest](https://careers.pinterest.com/) | San Francisco, CA | - No positions available - 5/18
+| [Pivotal](http://pivotal.io/careers) | Atlanta, GA; Los Angeles, CA; New York, NY; San Francisco, CA | - Done - 5/18
+| [PlushCare](https://www.plushcare.com/careers/) | San Francisco, CA | - No positions available - 5/18
+| [Postmates](https://postmates.com/jobs) | San Francisco, CA | - No positions available - 5/18
+| [Prezi](http://prezi.com/jobs/) | Budapest, Hungary; San Francisco, CA  | - No positions available - 5/18
+| [Priceline](http://careers.priceline.com/) | Norwalk, CT | - Done - 5/18
+| [Prism](https://prism.com/careers/) | San Francisco, CA | - No positions available - 5/18
+| [Pristine](https://pristine.io/careers/) | Austin, TX | - No positions available - 5/18
+| [Procore Technologies](https://www.procore.com/jobs/) | Santa Barbara, CA | - Done - 5/18
+| [Prominic](https://prominic.net/about-us/careers/) | Champaign, IL; Rantoul, IL | - Email - 5/18
+| [Pure Storage](https://www.purestorage.com/company/careers.html) | Bellevue, WA; Mountain View, CA | - No positions available - 5/18
+| [Qlik](http://www.qlik.com/company/careers) | San Francisco, CA | - No positions available - 5/18
+| [Qualtrics](https://www.qualtrics.com/careers/) | Provo, UT; Seattle, WA | - No positions available - 5/18
+| [Quantcast](https://www.quantcast.com/about-us/careers/) | San Francisco, CA | - Done - 5/18
+| [Qubole](https://www.qubole.com/career) | Bangalore, India; Mountain View, CA | - No positions available - 5/18
+| [Quip](https://quip.com/about/jobs) | San Francisco, CA | - Done - 5/18
+| [Quizlet](https://quizlet.com/jobs) | San Francisco, CA | - Done - 5/18
+| [Quora](https://www.quora.com/careers) | Mountain View, CA | - No positions available - 5/18
+| [Rackspace](https://www.rackspace.com/talent/) | Austin, TX; San Antonio, TX | - No positions available - 5/18
+| [Radius](https://radius.com/jobs/) | San Francisco, CA | - Done - 5/18
+| [ReadMe](https://readme.io/careers/) | San Francisco, CA | - No positions available - 5/18
+| [Redbull](http://jobs.redbull.com/us/en-US) | Santa Monica, CA | - No positions available - 5/18
+| [Reddit](https://about.reddit.com/careers/) | San Francisco, CA | - No positions available - 5/18
+| [Redfin](http://www.redfin.com/about/jobs) | San Francisco, CA; Seattle, WA | - Done - 5/18
+| [Redis-Labs](https://redislabs.com/company/redis-labs-careers) | Tel Aviv, Israel | - No positions available - 5/18
+| [Remitly](https://www.remitly.com/us/en/home/careers) | Seattle, WA | - No positions available - 5/18
+| [ResearchGate](https://www.researchgate.net/careers#positions) | Berlin, Germany | - No positions available - 5/18
+| [Resultados Digitais](http://resultadosdigitais.com.br/trabalhe-conosco/) | Florianópolis, SC, Brazil | - No positions available - 5/18
+| [RetailNext](http://retailnext.net/about-us/career-openings/) | Chicago, IL; San Francisco, CA; San Jose, CA | - No positions available - 5/18
+| [Riot Games](http://www.riotgames.com/careers) | Los Angeles, CA | - No positions available - 5/18
+| [RiskIQ](https://www.riskiq.com/careers) | San Francisco, CA | - No positions available - 5/18
+| [Roadtrippers](https://roadtrippers.com/jobs) | Cincinnati, OH; Remote | - No positions available - 5/18
+| [Robinhood](https://robinhood.com/jobs) | Palo Alto, CA | - No positions available - 5/18
+| [ROBLOX](http://corp.roblox.com/careers) | San Mateo, CA | - No positions available - 5/18
+| [Roku](https://www.roku.com/about/jobs) | Austin, TX; Los Gatos, CA | - Done - 5/18
+| [Rover.com](http://jobs.rover.com/) | Seattle, WA | - Done - 5/18
+| [rubrik](https://www.rubrik.com/company/careers/) | Palo Alto, CA | - Done - 5/18
+| [SADA Systems](https://sadasystems.com/careers) | Los Angeles, CA | - No positions available - 5/18
+| [ScoreBig](http://scorebig.applytojob.com/apply) | Los Angeles, CA | - No positions available - 5/18
+| [Scribd](https://www.scribd.com/about/jobs) | San Francisco, CA | - No positions available - 5/18
+| [Seamless](https://www.seamless.com/about/careers) | Chicago, IL; New York, NY | - No positions available - 5/18
+| [SeatGeek](https://seatgeek.com/jobs) | New York, NY | - Done - 5/18
 | [Segment](https://segment.com/jobs) | San Francisco, CA |
 | [SendGrid](https://sendgrid.com/careers) | Boulder, CO; Denver, CO |
 | [Sensus](http://sensus.com/careers/) | Boise, ID; Morrisville, NC |
