@@ -306,107 +306,107 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Scribd](https://www.scribd.com/about/jobs) | San Francisco, CA | - No positions available - 5/18
 | [Seamless](https://www.seamless.com/about/careers) | Chicago, IL; New York, NY | - No positions available - 5/18
 | [SeatGeek](https://seatgeek.com/jobs) | New York, NY | - Done - 5/18
-| [Segment](https://segment.com/jobs) | San Francisco, CA |
-| [SendGrid](https://sendgrid.com/careers) | Boulder, CO; Denver, CO |
-| [Sensus](http://sensus.com/careers/) | Boise, ID; Morrisville, NC |
-| [SheerID](http://www.sheerid.com/jobs-at-sheerid/) | Eugene, OR |
-| [ShopCo](https://jobs.lever.co/shopco) | San Francisco, CA |
-| [Shopify](https://www.shopify.com/careers) | Ottawa, ON; Remote; Toronto, ON |
-| [ShoreTel](https://www.shoretel.com/careers) | Austin, TX; Rochester, NY; Sunnyvale, CA |
-| [Shutterfly](https://www.shutterflyinc.com/careers.html) | Greenville, SC; Redwood City, CA; Tempe, AZ |
-| [Sift Science](https://siftscience.com/jobs) | San Francisco, CA |
-| [Signifyd](https://www.signifyd.com/careers/) | Remote; San Jose, CA |
-| [SimplyCredit](https://simplycreditinc.com/careers) | San Francisco, CA |
-| [SKHMS](http://www.skhms.com/careers/) | San Jose, CA |
-| [Skillshare](https://www.skillshare.com/careers) | New York, NY |
-| [Slack](https://slack.com/jobs) | San Francisco, CA |
-| [Slice](http://careers.slice.com/) | San Mateo, CA |
-| [Smarking](https://www.smarking.net/careers) | San Francisco, CA |
-| [Smartsheet](https://www.smartsheet.com/careers) | Bellevue, WA |
-| [SmartThings](https://www.smartthings.com/careers) | London, UK; Minneapolis, MN; Mountain View, CA; Palo Alto, CA; Seattle, WA; Tucson, AZ |
-| [Smule](http://www.smule.com/jobs) | San Francisco, CA |
-| [Snapchat](https://www.snapchat.com/jobs) | Venice, CA |
-| [SocialBase](http://www.socialbase.com.br/carreiras) | Florianópolis, SC, Brazil |
-| [Socotra](https://www.socotra.com/careers/) | San Francisco, CA |
-| [Source Intelligence](http://www.sourceintelligence.com/careers/) | San Diego, CA |
-| [SpaceX](http://www.spacex.com/careers) | Hawthorne, CA |
-| [Spotify](https://www.spotify.com/us/jobs/) | Boston, MA; New York, NY; San Francisco, CA |
-| [Sprout Social](http://sproutsocial.com/careers) | Chicago, IL |
-| [Square](https://squareup.com/careers) | Atlanta, GA; New York, NY; San Francisco, CA |
-| [Squarespace](http://www.squarespace.com/about/careers) | New York, NY |
-| [SSi Micro](https://ssimicro.com/job-postings) | Kanata, ON |
-| [StackPath](https://www.stackpath.com/careers) | Los Angeles, CA; Portland, OR |
-| [SteelHouse](http://steelhouse.com/about/) | Culver City, CA |
-| [Stitch Fix](https://www.stitchfix.com/careers) | Austin, TX; Bethlehem, PA; Dallas, TX; Phoenix, AZ; Pittsburg, PA; Remote, US; San Francisco, CA|
-| [Stripe](https://stripe.com/jobs) | San Francisco, CA |
-| [Study.com](http://study.com/pages/Employment.html) | Mountain View, CA |
-| [SurveyMonkey](https://www.surveymonkey.com/mp/jobs/) | Palo Alto, CA |
-| [Symphony](https://symphony.com/company/careers) | New York, NY; Palo Alto, CA |
-| [Tableau](https://careers.tableau.com/listing) | Palo Alto, CA; Seattle, WA |
-| [Takt](http://www.takt.com/careers) | San Francisco, CA; Seattle, WA |
-| [Tango](https://www.tango.me/careers) | New York, NY |
-| [TED](http://www.ted.com/about/our-organization/jobs-at-ted) | New York, NY |
-| [Teespring](https://teespring.com/jobs) | San Francisco, CA |
-| [Telenav](http://www.telenav.com/about/career/) | Sunnyvale, CA |
-| [The Artist Union](https://theartistunion.com/about) | San Francisco, CA |
-| [The Climate Corporation](http://www.climate-careers.com/) | Chicago, IL; San Francisco, CA; Seattle, WA; St. Louis, MO |
-| [The Internet Archive](https://archive.org/about/jobs.php) | Remote; Richmond, CA; San Francisco, CA |
-| [The League](http://www.theleague.com/jobs) |  |
-| [ThoughtSpot](http://www.thoughtspot.com/careers) | Palo Alto, CA |
-| [ThoughtWorks](https://www.thoughtworks.com/careers) | Worldwide |
-| [Thumbtack](https://www.thumbtack.com/jobs) | San Francisco, CA |
-| [Tile](https://www.thetileapp.com/about#careers) | San Mateo, CA |
-| [Tillster](http://www.tillster.com/careers/) | Los Angeles, CA; San Diego, CA |
-| [Tilt](https://www.tilt.com/learn/jobs) | Austin, TX; San Francisco, CA |
-| [Tinder](https://www.gotinder.com/jobs) | Los Angeles, CA; Palo Alto, CA |
-| [Tint](https://www.tintup.com/jobs) | San Francisco, CA |
-| [TiVo](https://www.tivo.com/jobs) | Durham, NC; San Jose, CA |
-| [Top Hat](https://tophat.com/company/careers) | Denver, CO; Toronto, ON |
-| [Trail](http://careers.trailapp.com) | London, UK; Remote |
-| [Travis CI](https://travisci.workable.com/) | Remote, US |
-| [TripAdvisor](http://www.tripadvisor.com/careers/) | Boston, MA; New York, NY; San Francisco, CA |
-| [Trustwave](https://www.trustwave.com/Company/About-Us/Careers/) | Austin, TX; Chicago, IL; New York, NY; Pittsburgh, PA |
-| [Tumblr](https://www.tumblr.com/jobs) | New York, NY; San Francisco, CA |
-| [Twilio](https://www.twilio.com/company/jobs) | Mountain View, CA; San Francisco, CA |
-| [Twitch](http://www.twitch.tv/p/jobs) | San Francisco, CA |
-| [Twitter](https://about.twitter.com/careers) | Boston, MA; Boulder, CO; New York, NY; San Francisco, CA; Seattle, WA |
-| [Two Sigma](https://careers.twosigma.com/) |  Houston, TX; New York City, NY |
-| [Udacity](https://www.udacity.com/jobs) | Mountain View, CA; San Francisco, CA |
-| [Unity](https://unity3d.com/jobs) | Austin, TX; Bellevue, WA; San Francisco, CA |
-| [Upwork](https://www.upwork.com/about/careers/) | Mountain View, CA |
-| [Urban Massage](https://urban-massage-careers.workable.com/) | London SE1, UK |
-| [Valve](http://www.valvesoftware.com/jobs/job_postings.html) | Bellevue, WA |
-| [Venmo](https://venmo.com/jobs/) | New York, NY |
-| [Vertafore](http://www.vertafore.com/About-Us/Careers/Openings) | Atlanta, GA; Bothell, WA; East Lansing, MI; Windsor, CT |
-| [VEVO](http://www.vevo.com/c/EN/US/careers) | San Francisco, CA; New York, NY |
-| [VHX](https://www.vhx.tv/jobs) | New York, NY |
-| [Viget](https://www.viget.com/careers) | Boulder, CO; Durham, NC |
-| [Vimeo](https://vimeo.com/jobs) | New York, NY |
-| [Vox Media](http://www.voxmedia.com/careers) | New York, NY; Remote; Washington, D.C. |
-| [Vultr](https://www.vultr.com/corporate/careers.php) | Matawan, NJ |
-| [Wattpad](https://www.wattpad.com/life/?jobs) | Toronto, ON, Canada |
-| [WayUp](https://www.wayup.com/joinus/) | New York, NY |
-| [Wealthfront](https://www.wealthfront.com/careers) | Palo Alto, CA |
-| [Wealthsimple](https://www.wealthsimple.com/jobs) | Toronto, ON, Canada |
-| [Weebly](http://careers.weebly.com/) | San Francisco, CA |
-| [Whitepages](http://about.whitepages.com/careers/) | Budapest, Hungary; Seattle, WA |
-| [Wikimedia Foundation](https://wikimediafoundation.org/wiki/Work_with_us) | Remote; San Francisco, CA |
-| [Wish](https://www.wish.com/careers) | San Francisco, CA |
-| [Wolt](https://wolt.com/jobs) | Stockholm, Sweden; Copenhagen, Denmark; Turku, Finland; Helsinki, Finland |
-| [Work Market](https://www.workmarket.com/jobs) | New York, NY |
-| [Workiva](https://www.workiva.com/content/careers) | Ames, IA |
-| [Xero](https://www.xero.com/nz/about/careers/) | Australia;  London, UK; Milton Keynes, UK; New Zealand; Singapore |
-| [Yelp](http://www.yelp.com/careers/home) | San Francisco, CA |
-| [Yext](http://www.yext.com/company/careers/) | New York, NY |
-| [YouNow](https://www.younow.com/jobs) | New York, NY |
-| [Zalando](https://tech.zalando.com/jobs/) | Berlin, Germany; Dortmund, Germany; London, UK  |
-| [Zappos](https://jobs.zappos.com/choose-your-team) | Buffalo, NY; Las Vegas, NV |
-| [Zendesk](https://www.zendesk.com/jobs/) | Remote; San Francisco, CA |
-| [Zenefits](https://www.zenefits.com/careers/) | San Francisco, CA |
-| [ZenMate](https://zenmate.com/jobs/) | Berlin, Germany |
-| [Zillow](http://www.zillow.com/jobs/) | Irvine, CA; New York, NY; San Francisco, CA; Seattle, WA |
-| [ZocDoc](https://www.zocdoc.com/careers) | New York, NY |
-| [Zoosk](https://about.zoosk.com/en/careers/) | San Francisco, CA |
-| [Zscaler](https://www.zscaler.com/careers/) | San Jose, CA |
-| [Zuora](https://www.zuora.com/about/careers/) | Foster City, CA; Remote |
-| [Zynga](https://www.zynga.com/careers) | San Francisco, CA |
+| [Segment](https://segment.com/jobs) | San Francisco, CA | - Done - 5/22
+| [SendGrid](https://sendgrid.com/careers) | Boulder, CO; Denver, CO | - Done - 5/22
+| [Sensus](http://sensus.com/careers/) | Boise, ID; Morrisville, NC | - Done - 5/22
+| [SheerID](http://www.sheerid.com/jobs-at-sheerid/) | Eugene, OR | - No positions available - 5/22
+| [ShopCo](https://jobs.lever.co/shopco) | San Francisco, CA | - Done - 5/22
+| [Shopify](https://www.shopify.com/careers) | Ottawa, ON; Remote; Toronto, ON | - No positions available - 5/22
+| [ShoreTel](https://www.shoretel.com/careers) | Austin, TX; Rochester, NY; Sunnyvale, CA | - Done - 5/22
+| [Shutterfly](https://www.shutterflyinc.com/careers.html) | Greenville, SC; Redwood City, CA; Tempe, AZ | - Done - 5/22
+| [Sift Science](https://siftscience.com/jobs) | San Francisco, CA | - Done - 5/22
+| [Signifyd](https://www.signifyd.com/careers/) | Remote; San Jose, CA | - Done - 5/22
+| [SimplyCredit](https://simplycreditinc.com/careers) | San Francisco, CA | - No positions available - 5/22
+| [SKHMS](http://www.skhms.com/careers/) | San Jose, CA | - Done - 5/22
+| [Skillshare](https://www.skillshare.com/careers) | New York, NY | - Done - 5/22
+| [Slack](https://slack.com/jobs) | San Francisco, CA | - Done - 5/22
+| [Slice](http://careers.slice.com/) | San Mateo, CA | - Done - 5/22
+| [Smarking](https://www.smarking.net/careers) | San Francisco, CA | - No positions available - 5/22
+| [Smartsheet](https://www.smartsheet.com/careers) | Bellevue, WA | - Done - 5/22
+| [SmartThings](https://www.smartthings.com/careers) | London, UK; Minneapolis, MN; Mountain View, CA; Palo Alto, CA; Seattle, WA; Tucson, AZ | - Done - 5/22
+| [Smule](http://www.smule.com/jobs) | San Francisco, CA | - No positions available - 5/22
+| [Snapchat](https://www.snapchat.com/jobs) | Venice, CA | - Done - 5/22
+| [SocialBase](http://www.socialbase.com.br/carreiras) | Florianópolis, SC, Brazil | - Not USA
+| [Socotra](https://www.socotra.com/careers/) | San Francisco, CA | - Email - 5/22
+| [Source Intelligence](http://www.sourceintelligence.com/careers/) | San Diego, CA | - Email - 5/22
+| [SpaceX](http://www.spacex.com/careers) | Hawthorne, CA | - US Citizen - 5/22
+| [Spotify](https://www.spotify.com/us/jobs/) | Boston, MA; New York, NY; San Francisco, CA | - Done - 5/22
+| [Sprout Social](http://sproutsocial.com/careers) | Chicago, IL | - No positions available - 5/22
+| [Square](https://squareup.com/careers) | Atlanta, GA; New York, NY; San Francisco, CA | - No positions available - 5/22
+| [Squarespace](http://www.squarespace.com/about/careers) | New York, NY | - No positions available - 5/22
+| [SSi Micro](https://ssimicro.com/job-postings) | Kanata, ON | - Not USA
+| [StackPath](https://www.stackpath.com/careers) | Los Angeles, CA; Portland, OR | - No positions available - 5/22
+| [SteelHouse](http://steelhouse.com/about/) | Culver City, CA | - Done - 5/22
+| [Stitch Fix](https://www.stitchfix.com/careers) | Austin, TX; Bethlehem, PA; Dallas, TX; Phoenix, AZ; Pittsburg, PA; Remote, US; San Francisco, CA| - Done - 5/22
+| [Stripe](https://stripe.com/jobs) | San Francisco, CA | - No positions available - 5/22
+| [Study.com](http://study.com/pages/Employment.html) | Mountain View, CA | - No positions available - 5/22
+| [SurveyMonkey](https://www.surveymonkey.com/mp/jobs/) | Palo Alto, CA | - Done - 5/22
+| [Symphony](https://symphony.com/company/careers) | New York, NY; Palo Alto, CA | - No positions available - 5/22
+| [Tableau](https://careers.tableau.com/listing) | Palo Alto, CA; Seattle, WA | - Done - 5/22
+| [Takt](http://www.takt.com/careers) | San Francisco, CA; Seattle, WA | - No positions available - 5/22
+| [Tango](https://www.tango.me/careers) | New York, NY | - No positions available - 5/22
+| [TED](http://www.ted.com/about/our-organization/jobs-at-ted) | New York, NY | - No positions available - 5/22
+| [Teespring](https://teespring.com/jobs) | San Francisco, CA | - No positions available - 5/22
+| [Telenav](http://www.telenav.com/about/career/) | Sunnyvale, CA | - Done - 5/22
+| [The Artist Union](https://theartistunion.com/about) | San Francisco, CA | - No positions available - 5/22
+| [The Climate Corporation](http://www.climate-careers.com/) | Chicago, IL; San Francisco, CA; Seattle, WA; St. Louis, MO | - No positions available - 5/22
+| [The Internet Archive](https://archive.org/about/jobs.php) | Remote; Richmond, CA; San Francisco, CA | - No positions available - 5/22
+| [The League](http://www.theleague.com/jobs) |  | - No positions available - 5/22
+| [ThoughtSpot](http://www.thoughtspot.com/careers) | Palo Alto, CA | - Done - 5/22
+| [ThoughtWorks](https://www.thoughtworks.com/careers) | Worldwide | - No positions available - 5/22
+| [Thumbtack](https://www.thumbtack.com/jobs) | San Francisco, CA | - No positions available - 5/22
+| [Tile](https://www.thetileapp.com/about#careers) | San Mateo, CA | - No positions available - 5/22
+| [Tillster](http://www.tillster.com/careers/) | Los Angeles, CA; San Diego, CA | - Done - 5/22
+| [Tilt](https://www.tilt.com/learn/jobs) | Austin, TX; San Francisco, CA | - No positions available - 5/22
+| [Tinder](https://www.gotinder.com/jobs) | Los Angeles, CA; Palo Alto, CA | - No positions available - 5/22
+| [Tint](https://www.tintup.com/jobs) | San Francisco, CA | - No positions available - 5/22
+| [TiVo](https://www.tivo.com/jobs) | Durham, NC; San Jose, CA | - No positions available - 5/22
+| [Top Hat](https://tophat.com/company/careers) | Denver, CO; Toronto, ON | - No positions available - 5/22
+| [Trail](http://careers.trailapp.com) | London, UK; Remote | - No positions available - 5/22
+| [Travis CI](https://travisci.workable.com/) | Remote, US | - Done - 5/22
+| [TripAdvisor](http://www.tripadvisor.com/careers/) | Boston, MA; New York, NY; San Francisco, CA | - No positions available - 5/22
+| [Trustwave](https://www.trustwave.com/Company/About-Us/Careers/) | Austin, TX; Chicago, IL; New York, NY; Pittsburgh, PA | - No positions available - 5/22
+| [Tumblr](https://www.tumblr.com/jobs) | New York, NY; San Francisco, CA | - Done - 5/22
+| [Twilio](https://www.twilio.com/company/jobs) | Mountain View, CA; San Francisco, CA | - No positions available - 5/22
+| [Twitch](http://www.twitch.tv/p/jobs) | San Francisco, CA | - Done - 5/22
+| [Twitter](https://about.twitter.com/careers) | Boston, MA; Boulder, CO; New York, NY; San Francisco, CA; Seattle, WA | - Not good enough for me - 5/22
+| [Two Sigma](https://careers.twosigma.com/) |  Houston, TX; New York City, NY | - Done - 5/22
+| [Udacity](https://www.udacity.com/jobs) | Mountain View, CA; San Francisco, CA | - No positions available - 5/22
+| [Unity](https://unity3d.com/jobs) | Austin, TX; Bellevue, WA; San Francisco, CA | - Done - 5/22
+| [Upwork](https://www.upwork.com/about/careers/) | Mountain View, CA | - No positions available - 5/22
+| [Urban Massage](https://urban-massage-careers.workable.com/) | London SE1, UK | - Not USA
+| [Valve](http://www.valvesoftware.com/jobs/job_postings.html) | Bellevue, WA | - No positions available - 5/22
+| [Venmo](https://venmo.com/jobs/) | New York, NY | - No positions available - 5/22
+| [Vertafore](http://www.vertafore.com/About-Us/Careers/Openings) | Atlanta, GA; Bothell, WA; East Lansing, MI; Windsor, CT | - Done - 5/22
+| [VEVO](http://www.vevo.com/c/EN/US/careers) | San Francisco, CA; New York, NY | - No positions available - 5/22
+| [VHX](https://www.vhx.tv/jobs) | New York, NY | - No positions available - 5/22
+| [Viget](https://www.viget.com/careers) | Boulder, CO; Durham, NC | - No positions available - 5/22
+| [Vimeo](https://vimeo.com/jobs) | New York, NY | - No positions available - 5/22
+| [Vox Media](http://www.voxmedia.com/careers) | New York, NY; Remote; Washington, D.C. | - No positions available - 5/22
+| [Vultr](https://www.vultr.com/corporate/careers.php) | Matawan, NJ | - No positions available - 5/22
+| [Wattpad](https://www.wattpad.com/life/?jobs) | Toronto, ON, Canada | - Not USA
+| [WayUp](https://www.wayup.com/joinus/) | New York, NY | - No positions available - 5/22
+| [Wealthfront](https://www.wealthfront.com/careers) | Palo Alto, CA | - No positions available - 5/22
+| [Wealthsimple](https://www.wealthsimple.com/jobs) | Toronto, ON, Canada | - No positions available - 5/22
+| [Weebly](http://careers.weebly.com/) | San Francisco, CA | - No positions available - 5/22
+| [Whitepages](http://about.whitepages.com/careers/) | Budapest, Hungary; Seattle, WA | - No positions available - 5/22
+| [Wikimedia Foundation](https://wikimediafoundation.org/wiki/Work_with_us) | Remote; San Francisco, CA | - No positions available - 5/22
+| [Wish](https://www.wish.com/careers) | San Francisco, CA | - Done - 5/22
+| [Wolt](https://wolt.com/jobs) | Stockholm, Sweden; Copenhagen, Denmark; Turku, Finland; Helsinki, Finland | - Not USA
+| [Work Market](https://www.workmarket.com/jobs) | New York, NY | - No positions available - 5/22
+| [Workiva](https://www.workiva.com/content/careers) | Ames, IA | - No positions available - 5/22
+| [Xero](https://www.xero.com/nz/about/careers/) | Australia;  London, UK; Milton Keynes, UK; New Zealand; Singapore | - Not USA - 5/22
+| [Yelp](http://www.yelp.com/careers/home) | San Francisco, CA | - Not good enough - 5/22
+| [Yext](http://www.yext.com/company/careers/) | New York, NY | - No positions available - 5/22
+| [YouNow](https://www.younow.com/jobs) | New York, NY | - No positions available - 5/22
+| [Zalando](https://tech.zalando.com/jobs/) | Berlin, Germany; Dortmund, Germany; London, UK  | - Not USA
+| [Zappos](https://jobs.zappos.com/choose-your-team) | Buffalo, NY; Las Vegas, NV | - No positions available - 5/22
+| [Zendesk](https://www.zendesk.com/jobs/) | Remote; San Francisco, CA | - No positions available - 5/22
+| [Zenefits](https://www.zenefits.com/careers/) | San Francisco, CA | - No positions available - 5/22
+| [ZenMate](https://zenmate.com/jobs/) | Berlin, Germany | - Not USA
+| [Zillow](http://www.zillow.com/jobs/) | Irvine, CA; New York, NY; San Francisco, CA; Seattle, WA | - Done - 5/22
+| [ZocDoc](https://www.zocdoc.com/careers) | New York, NY | - No positions available - 5/22
+| [Zoosk](https://about.zoosk.com/en/careers/) | San Francisco, CA | - Done - 5/22
+| [Zscaler](https://www.zscaler.com/careers/) | San Jose, CA | - Done - 5/22
+| [Zuora](https://www.zuora.com/about/careers/) | Foster City, CA; Remote | - No positions available - 5/22
+| [Zynga](https://www.zynga.com/careers) | San Francisco, CA | - Done - 5/22
